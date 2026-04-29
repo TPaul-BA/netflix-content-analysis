@@ -63,21 +63,21 @@ Key transformations performed:
 - The majority of movies fall within the 80-120 minute range, aligning with typical viewer attention spans. 
 - The United States leads content production, with emerging contributions from India and the United Kingdom.
 
-# Business Recommendations
+## Business Recommendations
  - Increase investment in TV Shows, especially in high-engagement genres like Crime and Thriller. 
  - Expand content production in emerging markets such as India. 
  - Maintain optimal movie durations (~90-110 minutes) to match viewer preferences. 
  - Focus on serialized content formats to improve user retention and platform engagement. 
 
-# Dashboard Preview
+## Dashboard Preview
 ![Dashboard](visuals/Dashboard.png)
 
-# Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI (Dashboard & Visualization)
 - Jupyter Notebook
 
-# Project Structure
+## Project Structure
 ```
 netflix-content-analysis/
 ├── data/               # Raw & cleaned datasets
